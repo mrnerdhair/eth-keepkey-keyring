@@ -1,0 +1,7 @@
+* text=auto
+* text eol=lf
+*.zip binary
+# GitHub Linguist Override
+.yarn/* linguist-vendored
+.pnp.js linguist-vendored
+/.yarn/cache/* filter=lfs diff=lfs merge=lfs -text

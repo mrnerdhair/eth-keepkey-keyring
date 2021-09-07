@@ -1,0 +1,8 @@
+**
+!/.gitignore
+!/.nvmrc
+!/.yarnrc.yml
+!/package.json
+!/src
+!/src/**
+!/tsconfig.json
